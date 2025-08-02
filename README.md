@@ -12,7 +12,7 @@ It is useful for automatically **summarizing long emails** and sending quick sum
 ## 🎥 Demo Video
 
 Watch how the automation works in action:  
-[▶ Email Summarizer Demo](demo_videos/email_summarizer_demo.mp4)
+[▶ Email Summarizer Demo](https://youtu.be/vOSjd0YtqDM)
 
 ---
 
