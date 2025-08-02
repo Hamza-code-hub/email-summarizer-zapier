@@ -12,7 +12,7 @@ It is useful for automatically **summarizing long emails** and sending quick sum
 ## 🎥 Demo Video
 
 Watch how the automation works in action:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vOSjd0YtqDM?si=Fv1Cj4LJKysbbi2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the Zapier Demo](https://img.youtube.com/vi/vOSjd0YtqDM/hqdefault.jpg)](https://youtu.be/vOSjd0YtqDM)
 
 ---
 
